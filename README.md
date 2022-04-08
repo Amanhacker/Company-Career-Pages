@@ -631,4 +631,4 @@
 
 <br>
 <br>
-<h2 align="center">If you liked the project, don't forget to fork and star this repo to save the list for your future use.</h2>
+<h2 align="center">If you liked the project, don't forget to fork and star this repo to save the list for your future.</h2>
