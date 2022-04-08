@@ -1,9 +1,9 @@
 # Company-Career-Pages
 ## 💻 An awesome list of job portals and career pages of top Startups, Product Based and Service Based Companies Along with the list of websites that are the best to find new openings📰🔥!!
 
-# Don't forget to fork this repo to save the list for your future use. 
+## Don't forget to fork this repo to save the list for your future use. 
 
-## Below is the list of hyperlinks of Company names and their careers pages in alphabetical order.
+# Below is the list of hyperlinks of Company names and their careers pages in alphabetical order.
 
 
 ###  [1 mg](https://www.1mg.com/jobs)  
